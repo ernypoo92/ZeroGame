@@ -1,0 +1,15 @@
+# ninja log v5
+0	228	7150362405620667	CMakeFiles/ZeroGame.dir/main.cpp.obj	801d25e484396336
+3	234	7150362405680508	CMakeFiles/ZeroGame.dir/ZeroGame.cpp.obj	87cd836bc7f6ec91
+234	327	7150362406580067	ZeroGame.exe	b96dfddded5f0b0f
+2	221	7150363285531389	CMakeFiles/ZeroGame.dir/main.cpp.obj	801d25e484396336
+222	281	7150363286103267	ZeroGame.exe	b96dfddded5f0b0f
+2	224	7150365703055064	CMakeFiles/ZeroGame.dir/main.cpp.obj	801d25e484396336
+224	284	7150365703623757	ZeroGame.exe	b96dfddded5f0b0f
+2	221	7150365962489609	CMakeFiles/ZeroGame.dir/main.cpp.obj	801d25e484396336
+222	278	7150365963028162	ZeroGame.exe	b96dfddded5f0b0f
+2	228	7150367855619120	CMakeFiles/ZeroGame.dir/main.cpp.obj	801d25e484396336
+228	288	7150367856177635	ZeroGame.exe	b96dfddded5f0b0f
+2	264	7150370621873924	CMakeFiles/ZeroGame.dir/main.cpp.obj	801d25e484396336
+5	273	7150370621973647	CMakeFiles/ZeroGame.dir/ZeroGame.cpp.obj	87cd836bc7f6ec91
+273	333	7150370622532214	ZeroGame.exe	b96dfddded5f0b0f
